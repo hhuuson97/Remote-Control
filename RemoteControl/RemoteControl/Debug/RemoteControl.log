@@ -1,0 +1,14 @@
+﻿  ServerManager.cpp
+c:\users\acer\desktop\1512267-1512460-1512688\1512267_1512460_1512688_v8\code\remotecontrol\remotecontrol\processmanager.h(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\acer\desktop\1512267-1512460-1512688\1512267_1512460_1512688_v8\code\remotecontrol\remotecontrol\servermanager.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\acer\desktop\1512267-1512460-1512688\1512267_1512460_1512688_v8\code\remotecontrol\remotecontrol\servermanager.cpp(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\acer\desktop\1512267-1512460-1512688\1512267_1512460_1512688_v8\code\remotecontrol\remotecontrol\servermanager.cpp(182): warning C4018: '<': signed/unsigned mismatch
+c:\users\acer\desktop\1512267-1512460-1512688\1512267_1512460_1512688_v8\code\remotecontrol\remotecontrol\servermanager.cpp(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\acer\desktop\1512267-1512460-1512688\1512267_1512460_1512688_v8\code\remotecontrol\remotecontrol\servermanager.cpp(218): warning C4018: '<': signed/unsigned mismatch
+c:\users\acer\desktop\1512267-1512460-1512688\1512267_1512460_1512688_v8\code\remotecontrol\remotecontrol\servermanager.cpp(224): warning C4018: '<': signed/unsigned mismatch
+c:\users\acer\desktop\1512267-1512460-1512688\1512267_1512460_1512688_v8\code\remotecontrol\remotecontrol\servermanager.cpp(239): warning C4018: '<': signed/unsigned mismatch
+c:\users\acer\desktop\1512267-1512460-1512688\1512267_1512460_1512688_v8\code\remotecontrol\remotecontrol\servermanager.cpp(245): warning C4018: '<': signed/unsigned mismatch
+c:\users\acer\desktop\1512267-1512460-1512688\1512267_1512460_1512688_v8\code\remotecontrol\remotecontrol\servermanager.cpp(279): warning C4018: '<': signed/unsigned mismatch
+c:\users\acer\desktop\1512267-1512460-1512688\1512267_1512460_1512688_v8\code\remotecontrol\remotecontrol\servermanager.cpp(357): warning C4244: 'argument': conversion from 'std::streamsize' to 'int', possible loss of data
+  RemoteControl.vcxproj -> C:\Users\ACER\Desktop\1512267-1512460-1512688\1512267_1512460_1512688_v8\Code\RemoteControl\Debug\RemoteControl.exe
+  RemoteControl.vcxproj -> C:\Users\ACER\Desktop\1512267-1512460-1512688\1512267_1512460_1512688_v8\Code\RemoteControl\Debug\RemoteControl.pdb (Partial PDB)

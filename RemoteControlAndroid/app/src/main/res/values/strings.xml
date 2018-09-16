@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Remote Control</string>
+    <string name="go">Go</string>
+    <string name="input_your_secret_key">Input your computer IP</string>
+    <string name="exit">Exit</string>
+    <string name="setting">Setting</string>
+    <string name="process">Left Mouse</string>
+    <string name="keyboard">KeyBoard</string>
+</resources>

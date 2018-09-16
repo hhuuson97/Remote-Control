@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/input_your_secret_key"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textCursorDrawable="@android:color/black"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/secret_key"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:allowUndo="false"
+        android:backgroundTint="@android:color/background_dark"
+        android:ems="10"
+        android:imeOptions="actionGo"
+        android:inputType="text"
+        android:singleLine="true"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textColorLink="@android:color/darker_gray" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/go"
+        android:onClick="login"/>
+
+</LinearLayout>
